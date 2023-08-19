@@ -9,7 +9,7 @@ I designed a project encompassing the genesis of blockchain technology, elucidat
 
 ## Demo
 
-Insert gif or link to demo
+Will be added soon
 
 
 ## Acknowledgments
